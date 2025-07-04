@@ -1,2 +1,11 @@
 # Machine-Learning-Data-Analysis
-A collection of different machine learning with a pinch of data wrangling/analysis I created to hone my skills for machine learning
+I plan to make 4 models and each model will be using a different data set:
+
+1. MNIST handwriting recognition: Convolutional Neural Networks (CNN)
+
+2. Stock predictions: Forecasting (LSTM or XGBoost)
+
+3. Weather prediction (Ensemble)
+
+4. Credit card fraud detection (Isolation tree)
+
