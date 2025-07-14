@@ -9,4 +9,4 @@ I plan to make 4 models and each model will be using a different dataset:
 
 4. Credit card customer churn: Kaggle dataset (Isolation Forest)
 
-Although I just finished this project, this is just the beginning. I will make a more impactful and robust model in the future!
+Although I just finished this project, this is just the beginning. I will make more impactful and robust models in the future!
