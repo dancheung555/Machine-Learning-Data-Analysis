@@ -7,5 +7,5 @@ I plan to make 4 models and each model will be using a different dataset:
 
 3. Weather prediction: Hong Kong Observatory (XGBoost)
 
-4. Credit card customer churn: Kaggle dataset (Isolation tree)
+4. Credit card customer churn: Kaggle dataset (Isolation Forest)
 
